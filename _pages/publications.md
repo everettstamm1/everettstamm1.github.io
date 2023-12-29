@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Working Papers
+======
+*[Shattered Metropolis: The Great Migration and the Fragmentation of Political Jurisdictions](http://academicpages.github.io/files/munis.pdf)
+with [Jamie McCasland](https://sites.google.com/site/jamiemccasland/), [Tomas Monarrez](https://sites.google.com/site/tmonarrez/), and [David Schonholzer](https://www.davidschonholzer.com/).
