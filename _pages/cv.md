@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CZ here](http://academicpages.github.io/files/Everett_Stamm_CV.pdf)
+[Download CV here](http://academicpages.github.io/files/Everett_Stamm_CV.pdf)
