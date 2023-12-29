@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Everett Stamm"
+  name             : &name "Everett Stamm"
   avatar           : "profile.png"
   bio              : "Ph.D. Economics Student at Boston University"
   location         : "Boston, MA"
