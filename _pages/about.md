@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Everett Stamm, a second-year Ph.D. Student in Economics at Boston University. My fields are trade, public, and history. My current research focuses on the relationship between local public good provision, residential sorting, and the political economy of housing regulation. I study this in both reduced form and structural econometric methods, often combining historical and modern data sources.
+Hello! I'm Everett Stamm, a third-year Ph.D. Student in Economics at Boston University. I am an urban economist, researching topics such as local public goods, housing markets, and transportation policy. 
